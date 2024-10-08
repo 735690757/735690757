@@ -1,18 +1,16 @@
 <div align="center">
-    <img src="image/tx.jpg" alt="头像" style="zoom:33%;" />
+    <img src="image/bg.jpg" alt="头像" style="zoom:33%;" />
 </div>
 
 ### <div align="center">hi！我是诗岸梦行舟 👨‍💻 是大千世界 Coder 中的一员 </div>
 
 <div id="title" align=center>
 
-[![网易云音乐](https://img.shields.io/badge/%E6%A9%98%E5%AD%90%E5%90%9B-SaMxz?label=%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90&color=red)
-](https://music.163.com/#/user/home?id=357759238)
+[![Blog](https://img.shields.io/badge/%E8%AF%97%E5%B2%B8%E6%A2%A6%E8%A1%8C%E8%88%9FBlog-6?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2)](https://735690757.github.io/)
 
-[![Static Badge](https://img.shields.io/badge/%E8%AF%97%E5%B2%B8%E6%A2%A6%E8%A1%8C%E8%88%9FBlog-6?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2)](https://735690757.github.io/)
-![](https://img.shields.io/badge/擅长语言-Java、TypeScript-yellow)
+[![网易云音乐](https://img.shields.io/badge/%E6%A9%98%E5%AD%90%E5%90%9B-SaMxz?label=%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90&color=red)
+](https://music.163.com/#/user/home?id=357759238)![](https://img.shields.io/badge/擅长语言-Java、TypeScript-yellow) ![](https://img.shields.io/badge/努力学习-冲冲冲-blue)
 ![](https://img.shields.io/badge/擅长领域-JavaWeb方向、数据结构虫、数据可视化-orange)
-![](https://img.shields.io/badge/努力学习-冲冲冲-blue)
 
 ## 访问量、语言分布与库数据
 
