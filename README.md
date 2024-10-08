@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="image/bg.jpg" alt="头像" style="zoom:33%;" />
+    <img src="image/bg2.jpg" alt="bg" style="zoom:33%;" />
 </div>
 
 ### <div align="center">hi！我是诗岸梦行舟 👨‍💻 是大千世界 Coder 中的一员 </div>
