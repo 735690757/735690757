@@ -12,15 +12,18 @@
 ](https://music.163.com/#/user/home?id=357759238)![](https://img.shields.io/badge/擅长语言-Java、TypeScript-yellow) ![](https://img.shields.io/badge/努力学习-冲冲冲-blue)
 ![](https://img.shields.io/badge/擅长领域-JavaWeb方向、数据结构、数据可视化-orange)
 
-## 访问量、语言分布与库数据
-
 ![Visitor Count](https://profile-counter.glitch.me/735690757/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=735690757&layout=compact)
+</div>
 
-[![SaKarryMxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=735690757&show_icons=true&theme=tokyonight)](https://735690757.github.io/)
+<div id="title" align=center>
+
+## 访问量、语言分布与库数据
 
 </div>
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=735690757&layout=compact&&include_all_commits=true&theme=buefy&hide_border=true) | [![SaKarryMxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=735690757&layout=compact&show_icons=true&theme=buefy&hide_border=true)](https://735690757.github.io/) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
 
