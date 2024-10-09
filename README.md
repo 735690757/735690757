@@ -12,13 +12,17 @@
 ](https://music.163.com/#/user/home?id=357759238)![](https://img.shields.io/badge/擅长语言-Java、TypeScript-yellow) ![](https://img.shields.io/badge/努力学习-冲冲冲-blue)
 ![](https://img.shields.io/badge/擅长领域-JavaWeb方向、数据结构、数据可视化-orange)
 
-![Visitor Count](https://profile-counter.glitch.me/735690757/count.svg)
-
 </div>
 
 <div id="title" align=center>
 
 ## 访问量、语言分布与库数据
+
+</div>
+
+<div id="title" align=center>
+
+![Visitor Count](https://profile-counter.glitch.me/735690757/count.svg)
 
 </div>
 
