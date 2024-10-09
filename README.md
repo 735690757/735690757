@@ -22,9 +22,12 @@
 
 </div>
 
+<div id="title" align=center>
+
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=735690757&layout=compact&&include_all_commits=true&theme=buefy&hide_border=true) | [![SaKarryMxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=735690757&layout=compact&show_icons=true&theme=buefy&hide_border=true)](https://735690757.github.io/) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+</div>
 <br/>
 
 ## My Skill Set
