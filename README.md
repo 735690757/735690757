@@ -22,7 +22,7 @@
 
 <div id="title" align=center>
 
-<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+![Visitor Count](https://profile-counter.deno.dev/735690757/count.svg)
 
 </div>
 
