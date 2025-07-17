@@ -35,8 +35,8 @@
 <br/>
 
 ## My Skill Set
-
-<table><tr><td valign="top" width="33%">
+<div align="center">
+<table><tr><td valign="top" width="500px">
 
 ### Frontend
 
@@ -51,7 +51,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="500px">
 
 ### Backend
 
@@ -72,7 +72,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="500px">
 
 ### DevOps
 
@@ -83,6 +83,8 @@
 </div>
 
 </td></tr></table>
+
+</div>
 
 <br/>
 
