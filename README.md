@@ -22,7 +22,7 @@
 
 <div id="title" align=center>
 
-![Visitor Count](https://profile-counter.glitch.me/735690757/count.svg)
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 
 </div>
 
