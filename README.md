@@ -16,6 +16,7 @@
 
 <div id="title" align=center>
 
+<!--
 ## 访问量、语言分布与库数据
 
 </div>
@@ -33,6 +34,7 @@
 
 </div>
 <br/>
+-->
 
 ## My Skill Set
 <div align="center">
