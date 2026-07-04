@@ -10,7 +10,7 @@
 
 [![网易云音乐](https://img.shields.io/badge/%E6%A9%98%E5%AD%90%E5%90%9B-SaMxz?label=%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90&color=red)
 ](https://music.163.com/#/user/home?id=357759238)![](https://img.shields.io/badge/擅长语言-Java、Python、TypeScript-yellow) ![](https://img.shields.io/badge/努力学习-冲冲冲-blue)
-![](https://img.shields.io/badge/擅长领域-Java后端开发、深度学习-AI_For_Science、数据可视化-orange)
+![](https://img.shields.io/badge/擅长领域-Java后端开发、深度学习、数据可视化-orange)
 
 </div>
 
